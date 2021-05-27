@@ -1,0 +1,31 @@
+table
+{
+	font-family: "consolas", bold;
+	width:50%;
+	background-color: black;
+}
+
+tr
+{
+	background-color: blue;
+	border: 2px solid black;
+	color: blue;
+	
+}
+td
+{
+	font-family: "consolas";
+	text-align: center;
+	background-color: aqua;
+}
+
+h1{
+	background-color:blue;
+	color:yellow;
+	padding:20px;
+	text-align: center;
+}
+
+.myform input{
+	margin:5px;
+}
